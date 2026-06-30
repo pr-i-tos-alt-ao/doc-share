@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://pr-i-tos-alt-ao.github.io/doc-share/sitemap.xml
